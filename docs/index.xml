@@ -6,65 +6,65 @@
       <description>Last 10 notes on 404Vector&#039;s Vault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Summarize</title>
-    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Summarize</link>
-    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Summarize</guid>
-    <description>Create a bullet-point summary of {}. Each bullet point should capture a key point. Return only the bullet-point summary.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
-  </item><item>
-    <title>Translate to Chinese</title>
-    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Translate-to-Chinese</link>
-    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Translate-to-Chinese</guid>
-    <description>Translate {} into Chinese: 1. Preserve the meaning and tone 2. Maintain appropriate cultural context 3.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
-  </item><item>
-    <title>Introduce</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>404Vector(HyeongSeok Kim) 현재 ML Engineer로 재직 중이며, Media(Video, Image, OpenEXR) Enhance AI Service 개발 팀에서 Inference 관련 전반적인 개발을 담당하고 있습니다.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
-  </item><item>
-    <title>재활용 품목 분류를 위한 Object Detection - Wrapup Report</title>
-    <link>https://quartz.jzhao.xyz/Project/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Object-Detection---Wrapup-Report</link>
-    <guid>https://quartz.jzhao.xyz/Project/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Object-Detection---Wrapup-Report</guid>
-    <description>Related to: Project 프로젝트 개요 설명 평가 프로젝트 팀 구성 및 역할 프로젝트 수행 절차 및 방법 1. 협업 방식 2. 접근 전략 3. 수행 과정 프로젝트 수행 결과 1. 데이터 분석 2. 모델 탐색 3. Image Size 4.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
-  </item><item>
-    <title>재활용 품목 분류를 위한 Object Detection - 개인 실험 일지</title>
-    <link>https://quartz.jzhao.xyz/Project/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Object-Detection---%EA%B0%9C%EC%9D%B8-%EC%8B%A4%ED%97%98-%EC%9D%BC%EC%A7%80</link>
-    <guid>https://quartz.jzhao.xyz/Project/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Object-Detection---%EA%B0%9C%EC%9D%B8-%EC%8B%A4%ED%97%98-%EC%9D%BC%EC%A7%80</guid>
-    <description>Related to: Project 대회개요 소개 평가방법 세부 일정 대회 룰 학습데이터 평가데이터 베이스라인 코드 및 제출방법 EDA Raw Image Size Analysis Category Histogram Analysis RGB Component Analysis by Category Annotation per Image Analysis Size Analysis by Category Model 탐색 Data Refine Drop small annotations 대회개요 소개 바야흐로 대량 생산, 대량 소비의 시대.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
-  </item><item>
-    <title>재활용 품목 분류를 위한 Semantic Segmentation - Wrapup Report</title>
-    <link>https://quartz.jzhao.xyz/Project/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Semantic-Segmentation---Wrapup-Report</link>
-    <guid>https://quartz.jzhao.xyz/Project/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Semantic-Segmentation---Wrapup-Report</guid>
-    <description>Related to: Project 프로젝트 개요 설명 평가 프로젝트 팀 구성 및 역할 프로젝트 수행 절차 및 방법 1. 협업 환경 2. 대회 접근 전략 3. 수행 과정 프로젝트 수행 결과 1. Data EDA 2. Model Search 3. Train 4.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
-  </item><item>
     <title>초보 운전자를 위한 안전 주행 보조 시스템</title>
     <link>https://quartz.jzhao.xyz/Project/%EC%B4%88%EB%B3%B4-%EC%9A%B4%EC%A0%84%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84-%EC%A3%BC%ED%96%89-%EB%B3%B4%EC%A1%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C</link>
     <guid>https://quartz.jzhao.xyz/Project/%EC%B4%88%EB%B3%B4-%EC%9A%B4%EC%A0%84%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84-%EC%A3%BC%ED%96%89-%EB%B3%B4%EC%A1%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C</guid>
     <description>Related to: Project GitHub - 404Vector/App.DrivingSafetyAssistanceSystem: Monocular 3D Object Detection을 사용하여 초보 운전자가 혼자 도로를 주행할 때 끼어들기나 전방 차량과의 거리에 대한 위험을 알려주는 시스템 Monocular 3D Object Detection을 사용하여 초보 운전자가 혼자 도로를 주행할 때 끼어들기나 전방 차량과의 거리에 대한 위험을 알려주는 시스템 - GitHub - 404Vector/App.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
   </item><item>
     <title>팀 프로젝트 개인 아이디어 정리 1</title>
     <link>https://quartz.jzhao.xyz/Project/%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9D%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EC%A0%95%EB%A6%AC-1</link>
     <guid>https://quartz.jzhao.xyz/Project/%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9D%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EC%A0%95%EB%A6%AC-1</guid>
     <description>Related to: Project LEGO AI Renderer 개요 제공하려는 서비스 데이터의 취득 Pipeline LEGO AI Renderer 개요 LEGO는 남녀노소 즐길 수 있는 장난감이며, 많은 사람들이 어린 시절 LEGO 혹은 그 유사제품을 가지고 놀아본 경험이 있을 것이다.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
   </item><item>
     <title>팀 프로젝트 개인 아이디어 정리 2</title>
     <link>https://quartz.jzhao.xyz/Project/%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9D%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EC%A0%95%EB%A6%AC-2</link>
     <guid>https://quartz.jzhao.xyz/Project/%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9D%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EC%A0%95%EB%A6%AC-2</guid>
     <description>Related to: Project Web상에서 획득할 수 있는 데이터는? 어떤 키워드에 대한 무작위 검색 정보 Web Crawling을 통한 이미지 획득 Web Crawling -이론 및 실습 파이썬을 활용한 웹 크롤링 여기서 시리즈로 시작해보자! velog.io/@changhtun1/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81 AI Painter[링크] 이미지 Colorization Imag...</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
   </item><item>
-    <title>Clip Web Page</title>
-    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Clip-Web-Page</link>
-    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Clip-Web-Page</guid>
-    <description>Based on the web page content provided in the context (from Obsidian Web Clipper or Web Viewer), generate a complete Obsidian note.</description>
-    <pubDate>Mon, 26 Jan 2026 13:46:18 GMT</pubDate>
+    <title>Clip YouTube Transcript</title>
+    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Clip-YouTube-Transcript</link>
+    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Clip-YouTube-Transcript</guid>
+    <description>Based on the YouTube video information and transcript provided in the context, generate a complete Obsidian note in the following format.</description>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
+  </item><item>
+    <title>Emojify</title>
+    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Emojify</link>
+    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Emojify</guid>
+    <description>Add relevant emojis to enhance {}. Follow these rules: 1. Insert emojis at natural breaks in the text 2. Never place two emojis next to each other 3.</description>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
+  </item><item>
+    <title>Explain like I am 5</title>
+    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Explain-like-I-am-5</link>
+    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Explain-like-I-am-5</guid>
+    <description>Explain {} in simple terms that a 5-year-old would understand: 1. Use basic vocabulary 2. Include simple analogies 3.</description>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
+  </item><item>
+    <title>Fix grammar and spelling</title>
+    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Fix-grammar-and-spelling</link>
+    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Fix-grammar-and-spelling</guid>
+    <description>Fix the grammar and spelling of {}. Preserve all formatting, line breaks, and special characters. Do not add or remove any content.</description>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
+  </item><item>
+    <title>Generate glossary</title>
+    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Generate-glossary</link>
+    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Generate-glossary</guid>
+    <description>Create a glossary of important terms, concepts, and phrases from {}. Format each entry as “Term: Definition”. Sort entries alphabetically.</description>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
+  </item><item>
+    <title>Generate table of contents</title>
+    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Generate-table-of-contents</link>
+    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Generate-table-of-contents</guid>
+    <description>Generate a hierarchical table of contents for {}. Use appropriate heading levels (H1, H2, H3, etc.). Include page numbers if present.</description>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
+  </item><item>
+    <title>Make longer</title>
+    <link>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Make-longer</link>
+    <guid>https://quartz.jzhao.xyz/copilot/copilot-custom-prompts/Make-longer</guid>
+    <description>Expand {} to twice its length by: 1. Adding relevant details and examples 2. Elaborating on key points 3.</description>
+    <pubDate>Thu, 05 Feb 2026 14:12:16 GMT</pubDate>
   </item>
     </channel>
   </rss>
