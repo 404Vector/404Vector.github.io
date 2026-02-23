@@ -6,65 +6,65 @@
       <description>Last 10 notes on HyeongSeok Kim&#039;s Log</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>재활용 품목 분류를 위한 Object Detection - Wrapup Report</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Recyclables-waste-Object-Detection/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Object-Detection---Wrapup-Report</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Recyclables-waste-Object-Detection/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Object-Detection---Wrapup-Report</guid>
+    <description>Related to: Project 프로젝트 개요 설명 평가 프로젝트 팀 구성 및 역할 프로젝트 수행 절차 및 방법 1. 협업 방식 2. 접근 전략 3. 수행 과정 프로젝트 수행 결과 1. 데이터 분석 2. 모델 탐색 3. Image Size 4.</description>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
+  </item><item>
+    <title>재활용 품목 분류를 위한 Object Detection - 개인 실험 일지</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Recyclables-waste-Object-Detection/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Object-Detection---%EA%B0%9C%EC%9D%B8-%EC%8B%A4%ED%97%98-%EC%9D%BC%EC%A7%80</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Recyclables-waste-Object-Detection/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Object-Detection---%EA%B0%9C%EC%9D%B8-%EC%8B%A4%ED%97%98-%EC%9D%BC%EC%A7%80</guid>
+    <description>Related to: Project 대회개요 소개 평가방법 세부 일정 대회 룰 학습데이터 평가데이터 베이스라인 코드 및 제출방법 EDA Raw Image Size Analysis Category Histogram Analysis RGB Component Analysis by Category Annotation per Image Analysis Size Analysis by Category Model 탐색 Data Refine Drop small annotations 대회개요 소개 바야흐로 대량 생산, 대량 소비의 시대.</description>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
+  </item><item>
+    <title>NAVER Connect 재활용 품목 분류를 위한 Semantic Segmentation</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Recyclables-waste-Semantic-Segmentation/NAVER-Connect-%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Semantic-Segmentation</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Recyclables-waste-Semantic-Segmentation/NAVER-Connect-%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Semantic-Segmentation</guid>
+    <description>Related to: Project Info github.com/404Vector/Competition.AIStages.TrashSemanticSegmentation Team Member 요약 My Contribute Task Evaluation Metric Data 개요 본론 EDA Test 결론 ==이 대회는 비공개 대회이며, Bootcamp AI Tech 4기 교육의 일환으로 진행되었습니다.== Team Member 김형석 - [github.com/404Vector] 이동훈 - [github.com/teedihuni] 전지용 ...</description>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
+  </item><item>
+    <title>재활용 품목 분류를 위한 Semantic Segmentation - Wrapup Report</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Recyclables-waste-Semantic-Segmentation/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Semantic-Segmentation---Wrapup-Report</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Recyclables-waste-Semantic-Segmentation/%EC%9E%AC%ED%99%9C%EC%9A%A9-%ED%92%88%EB%AA%A9-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-Semantic-Segmentation---Wrapup-Report</guid>
+    <description>Related to: Project 프로젝트 개요 설명 평가 프로젝트 팀 구성 및 역할 프로젝트 수행 절차 및 방법 1. 협업 환경 2. 대회 접근 전략 3. 수행 과정 프로젝트 수행 결과 1. Data EDA 2. Model Search 3. Train 4.</description>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
+  </item><item>
     <title>NAVER Connect 학습 데이터 추가 및 수정을 통한 이미지 속 글자 검출 성능 개선</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/Signboard-Text-Detection/NAVER-Connect-%ED%95%99%EC%8A%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EA%B0%80-%EB%B0%8F-%EC%88%98%EC%A0%95%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%86%8D-%EA%B8%80%EC%9E%90-%EA%B2%80%EC%B6%9C-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Signboard-Text-Detection/NAVER-Connect-%ED%95%99%EC%8A%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EA%B0%80-%EB%B0%8F-%EC%88%98%EC%A0%95%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%86%8D-%EA%B8%80%EC%9E%90-%EA%B2%80%EC%B6%9C-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0</guid>
     <description>Related to: Project GitHub - 404Vector/Competition.AIStages.WordAreaDetection: 이미지에서 Object Detection을 사용하여 글자 영역을 검출하는 Task You can’t perform that action at this time.</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
   </item><item>
     <title>데이터 제작 프로젝트 - Wrapup Report</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/Signboard-Text-Detection/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%9C%EC%9E%91-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8---Wrapup-Report</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Signboard-Text-Detection/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%9C%EC%9E%91-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8---Wrapup-Report</guid>
     <description>Related to: Project 프로젝트 개요 설명 평가 프로젝트 팀 구성 및 역할 프로젝트 수행 절차 및 방법 1. 협업 환경 2. 대회 접근 전략 3. 수행 과정 프로젝트 수행 결과 1. 데이터 셋 분석 2. 데이터 셋 적용 3.</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
   </item><item>
     <title>초보 운전자를 위한 안전 주행 보조 시스템</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/%EC%B4%88%EB%B3%B4-%EC%9A%B4%EC%A0%84%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84-%EC%A3%BC%ED%96%89-%EB%B3%B4%EC%A1%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/%EC%B4%88%EB%B3%B4-%EC%9A%B4%EC%A0%84%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%88%EC%A0%84-%EC%A3%BC%ED%96%89-%EB%B3%B4%EC%A1%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C</guid>
     <description>Related to: Project GitHub - 404Vector/App.DrivingSafetyAssistanceSystem: Monocular 3D Object Detection을 사용하여 초보 운전자가 혼자 도로를 주행할 때 끼어들기나 전방 차량과의 거리에 대한 위험을 알려주는 시스템 Monocular 3D Object Detection을 사용하여 초보 운전자가 혼자 도로를 주행할 때 끼어들기나 전방 차량과의 거리에 대한 위험을 알려주는 시스템 - GitHub - 404Vector/App.</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
   </item><item>
     <title>OLED Display Camera Hole 검사기</title>
     <link>https://quartz.jzhao.xyz/Project/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Project/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
     <description>개요 기간: 2020.03 – 2020.06 소속: HYC Korea / Inspection팀 역할: CV Algorithm Engineer 기술 스택 C#, OpenCV 기여 및 기술 성과 검사 기술서 정의를 위해 이미지 상 결함 추정 부위들을 정리 및 분류 회사 동료들과의 협업을 통해 필요 검사 항목 도출 Camera Hole Edge Defect 검사 알고리즘 및 Grabber 제어 기능 개발 Business 성과 고객사 납품 및 양산 대응 .</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
   </item><item>
     <title>Pattern Wafer 검사기</title>
     <link>https://quartz.jzhao.xyz/Project/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Project/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
     <description>개요 기간: 2019.09 – 2020.12 소속: HYC Korea / Inspection팀 역할: CV Algorithm Engineer 기술 스택 C++, C#, MIL, OpenCV 기여 및 기술 성과 Die to Die / Edge Profile 결함 검사 알고리즘 개발 LineScan Camera 및 Grabber 제어 기능 개발 검사 시뮬레이터 개발 Business 성과 고객사 납품 .</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
   </item><item>
     <title>Photometric Stereo 형상 추출 알고리즘</title>
     <link>https://quartz.jzhao.xyz/Project/Photometric-Stereo-%ED%98%95%EC%83%81-%EC%B6%94%EC%B6%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</link>
     <guid>https://quartz.jzhao.xyz/Project/Photometric-Stereo-%ED%98%95%EC%83%81-%EC%B6%94%EC%B6%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</guid>
     <description>개요 기간: 2021.08 – 2021.11 소속: PIE Corp.</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
-  </item><item>
-    <title>Pixell Management System alpha</title>
-    <link>https://quartz.jzhao.xyz/Project/Pixell-Management-System-alpha</link>
-    <guid>https://quartz.jzhao.xyz/Project/Pixell-Management-System-alpha</guid>
-    <description>개요 기간: 2023.06 – 2023.10 소속: 4by4 Inc.</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
-  </item><item>
-    <title>Pixell Management System v1.0</title>
-    <link>https://quartz.jzhao.xyz/Project/Pixell-Management-System-v1.0</link>
-    <guid>https://quartz.jzhao.xyz/Project/Pixell-Management-System-v1.0</guid>
-    <description>개요 기간: 2023.10 – 2024.03 소속: 4by4 Inc.</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
-  </item><item>
-    <title>Pixell Management System v2.0</title>
-    <link>https://quartz.jzhao.xyz/Project/Pixell-Management-System-v2.0</link>
-    <guid>https://quartz.jzhao.xyz/Project/Pixell-Management-System-v2.0</guid>
-    <description>개요 기간: 2024.06 – 2025.01 소속: 4by4 Inc.</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
-  </item><item>
-    <title>Pixell Management System v3.0</title>
-    <link>https://quartz.jzhao.xyz/Project/Pixell-Management-System-v3.0</link>
-    <guid>https://quartz.jzhao.xyz/Project/Pixell-Management-System-v3.0</guid>
-    <description>개요 기간: 2025.02 – 2025.05 소속: 4by4 Inc.</description>
-    <pubDate>Mon, 23 Feb 2026 12:25:21 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 13:27:55 GMT</pubDate>
   </item>
     </channel>
   </rss>
