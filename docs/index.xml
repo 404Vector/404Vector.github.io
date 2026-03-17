@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>HSV</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on HSV</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Text Region 검출기</title>
+    <link>https://quartz.jzhao.xyz/Project/Toy/Text-Region-%EA%B2%80%EC%B6%9C%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Project/Toy/Text-Region-%EA%B2%80%EC%B6%9C%EA%B8%B0</guid>
+    <description>Related to: Project GitHub - 404Vector/App.Streamlit-FastAPI.Text.Detector: OCR Task 중 하나인 Text Detection을 수행하는 Web Service 저장소 입니다.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>Video2Video</title>
+    <link>https://quartz.jzhao.xyz/Project/Toy/Video2Video</link>
+    <guid>https://quartz.jzhao.xyz/Project/Toy/Video2Video</guid>
+    <description>Related to: Project github.com/404Vector/Video2Video 개요 Video2Video는 FFMPeg와 FFMPeg-Python을 사용하여 비디오를 비디오로 변환하는 라이브러리입니다.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>Introduce</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>HSV(HyeongSeok’s Vault) HyeongSeok’s Vault는 다음을 위한 지식 저장소입니다: Project : 실무 및 개인 프로젝트 아카이브 Garden: 기술 문서 아카이브 Personal: 개인 회고 및 기록 아카이브 About Me 반도체·디스플레이 검사 장비에서 비전 알고리즘을 개발하다, AI 기술에 대한 관심을 바탕으로 MLOps 엔지니어로 전환했습니다.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>초보 운전자를 위한 안전 주행 보조 시스템 (ADAS)</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/ADAS-with-Camera-and-Lidar</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/ADAS-with-Camera-and-Lidar</guid>
+    <description>소속: Naver Connect · Boostcamp AI Tech 4기 역할: ML Engineer (Core Contributor) 기간: 2022.12 – 2023.02 산업 도메인: 자율주행 / ADAS (Advanced Driver Assistance System) Situation 초보 운전자들이 겪는 가장 큰 어려움인 ‘좁은 시야’와 ‘차간 거리 판단 미숙’을 해결하기 위한 주행 보조 시스템 기획.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>AI Image Editor</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/AI-Image-Editor</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/AI-Image-Editor</guid>
+    <description>소속: 4by4 Inc.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>AWS Inferentia2 PoC</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/AWS-Inferentia2-PoC</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/AWS-Inferentia2-PoC</guid>
+    <description>소속: 4by4 Inc.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>DACON 예술작품 화가 분류 AI 경진대회</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/DACON-%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88-%ED%99%94%EA%B0%80-%EB%B6%84%EB%A5%98-AI-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/DACON-%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88-%ED%99%94%EA%B0%80-%EB%B6%84%EB%A5%98-AI-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C</guid>
+    <description>Related to: Project GitHub - 404Vector/Competition.DACON.ArtWorksPainterClassification: Dacon 화가 이미지 분류 Dacon 예술 작품 화가 분류 AI 경진대회 model 폴더 .</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>Jelly Roll Bottom 검사기</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Jelly-Roll-Bottom-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Jelly-Roll-Bottom-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
+    <description>소속: PIE 역할: Computer Vision SW Engineer 기간: 2021.08 – 2022.12 산업 도메인: 이차전지 검사 (원통형 배터리) Situation LG Energy Solution의 원통형 이차전지 공정에서, 밀봉 전 내부 젤리롤 형태의 구성물에 대한 결함 검사가 필요했다.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>OLED Display Camera Hole 검사기</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
+    <description>소속: HYC Korea · Inspection 팀 역할: CV Algorithm Engineer 기간: 2020.03 – 2020.06 **산업 도메인: **OLED 디스플레이 검사 장비 제조 Situation 고객사로부터 신규 휴대폰 OLED 패널의 Camera Hole 검사 장비 개발 요청을 받았다.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item><item>
+    <title>Pattern Wafer 검사기</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
+    <description>소속: HYC Korea 역할: Computer Vision Algorithm Engineer 기간: 2019.09 – 2020.12 산업 도메인: 반도체 웨이퍼 검사 Situation 당시 반도체 웨이퍼 검사 공정에서는 검사 장비와 리뷰 장비가 분리되어 있었다.</description>
+    <pubDate>Tue, 17 Mar 2026 07:55:07 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
