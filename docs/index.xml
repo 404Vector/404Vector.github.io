@@ -6,65 +6,65 @@
       <description>Last 10 notes on HSV</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>초보 운전자를 위한 안전 주행 보조 시스템 (ADAS)</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/ADAS-with-Camera-and-Lidar</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/ADAS-with-Camera-and-Lidar</guid>
+    <description>소속: Naver Connect · Boostcamp AI Tech 4기 역할: ML Engineer (Core Contributor) 기간: 2022.12 – 2023.02 산업 도메인: 자율주행 / ADAS (Advanced Driver Assistance System) Situation 초보 운전자들이 겪는 가장 큰 어려움인 ‘좁은 시야’와 ‘차간 거리 판단 미숙’을 해결하기 위한 주행 보조 시스템 기획.</description>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
+  </item><item>
     <title>AI Image Editor</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/AI-Image-Editor</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/AI-Image-Editor</guid>
     <description>소속: 4by4 Inc.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item><item>
     <title>AWS Inferentia2 PoC</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/AWS-Inferentia2-PoC</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/AWS-Inferentia2-PoC</guid>
     <description>소속: 4by4 Inc.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item><item>
     <title>DACON 예술작품 화가 분류 AI 경진대회</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/DACON-%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88-%ED%99%94%EA%B0%80-%EB%B6%84%EB%A5%98-AI-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/DACON-%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88-%ED%99%94%EA%B0%80-%EB%B6%84%EB%A5%98-AI-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C</guid>
     <description>Related to: Project GitHub - 404Vector/Competition.DACON.ArtWorksPainterClassification: Dacon 화가 이미지 분류 Dacon 예술 작품 화가 분류 AI 경진대회 model 폴더 .</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item><item>
     <title>Jelly Roll Bottom 검사기</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/Jelly-Roll-Bottom-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Jelly-Roll-Bottom-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
     <description>소속: PIE 역할: Computer Vision SW Engineer 기간: 2021.08 – 2022.12 산업 도메인: 이차전지 검사 (원통형 배터리) Situation LG Energy Solution의 원통형 이차전지 공정에서, 밀봉 전 내부 젤리롤 형태의 구성물에 대한 결함 검사가 필요했다.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item><item>
     <title>OLED Display Camera Hole 검사기</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
     <description>소속: HYC Korea · Inspection 팀 역할: CV Algorithm Engineer 기간: 2020.03 – 2020.06 **산업 도메인: **OLED 디스플레이 검사 장비 제조 Situation 고객사로부터 신규 휴대폰 OLED 패널의 Camera Hole 검사 장비 개발 요청을 받았다.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item><item>
     <title>Pattern Wafer 검사기</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
     <description>소속: HYC Korea 역할: Computer Vision Algorithm Engineer 기간: 2019.09 – 2020.12 산업 도메인: 반도체 웨이퍼 검사 Situation 당시 반도체 웨이퍼 검사 공정에서는 검사 장비와 리뷰 장비가 분리되어 있었다.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item><item>
     <title>Photometric Stereo 형상 추출 알고리즘</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/Photometric-Stereo-%ED%98%95%EC%83%81-%EC%B6%94%EC%B6%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Photometric-Stereo-%ED%98%95%EC%83%81-%EC%B6%94%EC%B6%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</guid>
     <description>소속: (주)피아이이 · SW 개발팀 역할: CV Software Engineer 기간: 2021.08 – 2021.11 산업 도메인: 이차전지(Li-ion) 제조 검사 장비 Situation 원통형 이차전지 상부(Washing Top)의 금속 표면 결함 검사에 키엔스사의 LumiTrax 카메라 모듈을 사용하고 있었다.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item><item>
     <title>Pixell Management System alpha</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-alpha</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-alpha</guid>
     <description>소속: 4by4 Inc.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item><item>
     <title>Pixell Management System v1.0</title>
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v1.0</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v1.0</guid>
     <description>소속: 4by4 Inc.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
-  </item><item>
-    <title>Pixell Management System v2.0</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v2.0</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v2.0</guid>
-    <description>소속: 4by4 Inc.</description>
-    <pubDate>Tue, 17 Mar 2026 05:08:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2026 06:34:42 GMT</pubDate>
   </item>
     </channel>
   </rss>
