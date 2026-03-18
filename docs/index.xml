@@ -6,65 +6,65 @@
       <description>Last 10 notes on HSV</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Pixell Management System v1.0</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v1.0</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v1.0</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 07:40:25 GMT</pubDate>
+    <title>2023년 회고-ML Engineer로서의 첫걸음</title>
+    <link>https://quartz.jzhao.xyz/Personal/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-ML-Engineer%EB%A1%9C%EC%84%9C%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C</link>
+    <guid>https://quartz.jzhao.xyz/Personal/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-ML-Engineer%EB%A1%9C%EC%84%9C%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C</guid>
+    <description><![CDATA[ Related to: Personal 2023년도에 있었던 일, 이뤄낸 일들을 정리해 보았습니다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>OLED Display Camera Hole 검사기</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: HYC Korea · Inspection 팀 역할: CV Algorithm Engineer 기간: 2020.03 – 2020.06 **산업 도메인: **OLED 디스플레이 검사 장비 제조 Situation 고객사로부터 신규 휴대폰 OLED 패널의 Camera Hole 검사 장비 개발 요청을 받았다. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:30:53 GMT</pubDate>
+    <title>Boostcamp AI Tech 4기 후기</title>
+    <link>https://quartz.jzhao.xyz/Personal/Boostcamp-AI-Tech-4%EA%B8%B0-%ED%9B%84%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Boostcamp-AI-Tech-4%EA%B8%B0-%ED%9B%84%EA%B8%B0</guid>
+    <description><![CDATA[ Related to: Personal Boostcamp AI Tech는 무엇인가요? 어떤걸 배우나요? 팀은 어떻게 나눠지나요? 각 대회는 어떻게 진행되나요? 최종 프로젝트는 무엇인가요? 또 무엇이 있나요? 이 교육의 장단점은 무엇인가요? Boostcamp AI Tech에서 무엇을 얻었나요? 글을 마치며… 본 글을 AI Tech 4기 교육 내용을 기준으로 작성되었으며, 다른 기수와 다를 수 있습니다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>초보 운전자를 위한 안전 주행 보조 시스템 (ADAS)</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/ADAS-with-Camera-and-Lidar</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/ADAS-with-Camera-and-Lidar</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: Naver Connect · Boostcamp AI Tech 4기 역할: ML Engineer (Core Contributor) 기간: 2022.12 – 2023.02 산업 도메인: 자율주행 / ADAS (Advanced Driver Assistance System) Situation 초보 운전자들이 겪는 가장 큰 어려움인 ‘좁은 시야’와 ‘차간 거리 판단 미숙’을 해결하기 위한 주행 보조 시스템 기획. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <title>Github 잔디 Notion에 Embed하기</title>
+    <link>https://quartz.jzhao.xyz/Personal/Github-%EC%9E%94%EB%94%94-Notion%EC%97%90-Embed%ED%95%98%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Github-%EC%9E%94%EB%94%94-Notion%EC%97%90-Embed%ED%95%98%EA%B8%B0</guid>
+    <description><![CDATA[ Related to: Personal 개요 이 글은 내 github 잔디를 Notion Page에 embed하는 방법을 소개합니다. HTML 링크 생성 아래 링크에 자신의 github username을 넣습니다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>AI Image Editor</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/AI-Image-Editor</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/AI-Image-Editor</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <title>Linux Command Collection</title>
+    <link>https://quartz.jzhao.xyz/Personal/Linux-Command-Collection</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Linux-Command-Collection</guid>
+    <description><![CDATA[ Related to: Personal 이 문서는 각 명령어를 예제와 함께 간단한 설명과 함께 자주 사용되는 리눅스 명령어의 종합 목록을 제공합니다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>AWS Inferentia2 PoC</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/AWS-Inferentia2-PoC</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/AWS-Inferentia2-PoC</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <title>Open Source Contiribution</title>
+    <link>https://quartz.jzhao.xyz/Personal/Open-Source-Contiribution</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Open-Source-Contiribution</guid>
+    <description><![CDATA[ Related to: Personal MMDetection 3D - fix local_visualizer.py: only visualize when there is at least one instance github.com/open-mmlab/mmdetection3d/pull/2231. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>Jelly Roll Bottom 검사기</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Jelly-Roll-Bottom-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Jelly-Roll-Bottom-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: PIE 역할: Computer Vision SW Engineer 기간: 2021.08 – 2022.12 산업 도메인: 이차전지 검사 (원통형 배터리) Situation LG Energy Solution의 원통형 이차전지 공정에서, 밀봉 전 내부 젤리롤 형태의 구성물에 대한 결함 검사가 필요했다. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <title>Rust Study</title>
+    <link>https://quartz.jzhao.xyz/Personal/Rust-Study</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Rust-Study</guid>
+    <description><![CDATA[ Related to: Personal 스터디 멤버 김태훈 김형석 유재상 참조 tourofrust.com/TOC_ko.html 1장 - 기초 Rust 놀이터 별도의 환경을 구성하지 않더라도, “Rust 놀이터”라고 하는 Web Service를 통해 기본적인 코드를 실행해볼 수 있다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>Pattern Wafer 검사기</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: HYC Korea 역할: Computer Vision Algorithm Engineer 기간: 2019.09 – 2020.12 산업 도메인: 반도체 웨이퍼 검사 Situation 당시 반도체 웨이퍼 검사 공정에서는 검사 장비와 리뷰 장비가 분리되어 있었다. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <title>Tmux 설치 및 사용법</title>
+    <link>https://quartz.jzhao.xyz/Personal/Tmux-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Tmux-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95</guid>
+    <description><![CDATA[ Related to: Personal 원격 서버로 훈련할 때의 문제 ssh를 사용해 원격 서버로 훈련을 진행한다면, 세션을 계속 유지하는 것이 부담스러울 수 있다. 이 문제를 tmux를 사용해 해결할 수 있다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>Photometric Stereo 형상 추출 알고리즘</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Photometric-Stereo-%ED%98%95%EC%83%81-%EC%B6%94%EC%B6%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Photometric-Stereo-%ED%98%95%EC%83%81-%EC%B6%94%EC%B6%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: (주)피아이이 · SW 개발팀 역할: CV Software Engineer 기간: 2021.08 – 2021.11 산업 도메인: 이차전지(Li-ion) 제조 검사 장비 Situation 원통형 이차전지 상부(Washing Top)의 금속 표면 결함 검사에 키엔스사의 LumiTrax 카메라 모듈을 사용하고 있었다. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <title>Window 10 OpenSSH 서버 활성화 및 실행하기</title>
+    <link>https://quartz.jzhao.xyz/Personal/Window-10-OpenSSH-%EC%84%9C%EB%B2%84-%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Window-10-OpenSSH-%EC%84%9C%EB%B2%84-%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0</guid>
+    <description><![CDATA[ Related to: Personal Window 10 OpenSSH 서버 활성화 및 실행하기 OpenSSH Server 활성화 Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0 출력 Path : Online : True RestartNeeded : False OpenSSH Server 실행 Start-Service sshd 부팅 시점에 자동으로 서비스가 실행되도록 설정 Set-Service -Name sshd -StartupType &#039;Automatic&#039;... ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>Pixell Management System alpha</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-alpha</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-alpha</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <title>pipenv 설치 및 사용</title>
+    <link>https://quartz.jzhao.xyz/Personal/pipenv-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9</link>
+    <guid>https://quartz.jzhao.xyz/Personal/pipenv-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9</guid>
+    <description><![CDATA[ Related to: Personal 개요 Pipenv는 Python의 패키지 관리자이며 단일 디렉토리 내의 가상 환경을 구축하고 관리하는 데 도움이 됩니다. Pipenv의 사용법을 다음과 같이 설명합니다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
-    <title>Pixell Management System v2.0</title>
-    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v2.0</link>
-    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v2.0</guid>
-    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <title>pyenv 설치 및 사용 방법</title>
+    <link>https://quartz.jzhao.xyz/Personal/pyenv-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95</link>
+    <guid>https://quartz.jzhao.xyz/Personal/pyenv-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95</guid>
+    <description><![CDATA[ Related to: Personal 개요 개발자들이 실행하는 스크립트 등의 환경을 정교하게 관리할 수 있는 Python 개발 환경 매니저 “Pyenv”를 소개합니다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item>
     </channel>
   </rss>
