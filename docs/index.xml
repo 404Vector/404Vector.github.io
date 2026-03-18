@@ -10,61 +10,61 @@
     <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v1.0</link>
     <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v1.0</guid>
     <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:59 GMT</pubDate>
+    <pubDate>Wed, 18 Mar 2026 07:00:15 GMT</pubDate>
   </item><item>
-    <title>Dart</title>
-    <link>https://quartz.jzhao.xyz/Garden/Programming/Dart/</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Programming/Dart/</guid>
-    <description><![CDATA[ Related to: Dart. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>OLED Display Camera Hole 검사기</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/OLED-Display-Camera-Hole-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: HYC Korea · Inspection 팀 역할: CV Algorithm Engineer 기간: 2020.03 – 2020.06 **산업 도메인: **OLED 디스플레이 검사 장비 제조 Situation 고객사로부터 신규 휴대폰 OLED 패널의 Camera Hole 검사 장비 개발 요청을 받았다. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:30:53 GMT</pubDate>
   </item><item>
-    <title>Programming</title>
-    <link>https://quartz.jzhao.xyz/Garden/Programming/</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Programming/</guid>
-    <description><![CDATA[ Related to: Programming. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>초보 운전자를 위한 안전 주행 보조 시스템 (ADAS)</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/ADAS-with-Camera-and-Lidar</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/ADAS-with-Camera-and-Lidar</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: Naver Connect · Boostcamp AI Tech 4기 역할: ML Engineer (Core Contributor) 기간: 2022.12 – 2023.02 산업 도메인: 자율주행 / ADAS (Advanced Driver Assistance System) Situation 초보 운전자들이 겪는 가장 큰 어려움인 ‘좁은 시야’와 ‘차간 거리 판단 미숙’을 해결하기 위한 주행 보조 시스템 기획. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Operating Systems</title>
-    <link>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/Operating-Systems</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/Operating-Systems</guid>
-    <description><![CDATA[ Related to: Operating Systems TODO!. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>AI Image Editor</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/AI-Image-Editor</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/AI-Image-Editor</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Program vs Process vs Thread</title>
-    <link>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/Program-vs-Process-vs-Thread</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/Program-vs-Process-vs-Thread</guid>
-    <description><![CDATA[ 프로그램(Program), 프로세스(Process), 스레드(Thread)의 정의와 차이점을 정리한 노트 ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>AWS Inferentia2 PoC</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/AWS-Inferentia2-PoC</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/AWS-Inferentia2-PoC</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Operating Systems</title>
-    <link>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/</guid>
-    <description><![CDATA[ Related to: Operating Systems. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>Jelly Roll Bottom 검사기</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Jelly-Roll-Bottom-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Jelly-Roll-Bottom-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: PIE 역할: Computer Vision SW Engineer 기간: 2021.08 – 2022.12 산업 도메인: 이차전지 검사 (원통형 배터리) Situation LG Energy Solution의 원통형 이차전지 공정에서, 밀봉 전 내부 젤리롤 형태의 구성물에 대한 결함 검사가 필요했다. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>교착상태</title>
-    <link>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C</guid>
-    <description><![CDATA[ 교착상태(Deadlock)의 정의, 발생 조건 4가지와 예방 방법을 정리한 노트 ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>Pattern Wafer 검사기</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pattern-Wafer-%EA%B2%80%EC%82%AC%EA%B8%B0</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: HYC Korea 역할: Computer Vision Algorithm Engineer 기간: 2019.09 – 2020.12 산업 도메인: 반도체 웨이퍼 검사 Situation 당시 반도체 웨이퍼 검사 공정에서는 검사 장비와 리뷰 장비가 분리되어 있었다. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>메모리 관리 전략은 무엇일까</title>
-    <link>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%EC%A0%84%EB%9E%B5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/Operating-Systems/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%EC%A0%84%EB%9E%B5%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C</guid>
-    <description><![CDATA[ 운영체제의 메모리 관리 전략(연속 할당, 페이징, 세그멘테이션)과 효과적인 메모리 사용 기법을 정리한 노트 ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>Photometric Stereo 형상 추출 알고리즘</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Photometric-Stereo-%ED%98%95%EC%83%81-%EC%B6%94%EC%B6%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Photometric-Stereo-%ED%98%95%EC%83%81-%EC%B6%94%EC%B6%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: (주)피아이이 · SW 개발팀 역할: CV Software Engineer 기간: 2021.08 – 2021.11 산업 도메인: 이차전지(Li-ion) 제조 검사 장비 Situation 원통형 이차전지 상부(Washing Top)의 금속 표면 결함 검사에 키엔스사의 LumiTrax 카메라 모듈을 사용하고 있었다. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Computer Science</title>
-    <link>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Foundations/Computer-Science/</guid>
-    <description><![CDATA[ Related to: Computer Science. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>Pixell Management System alpha</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-alpha</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-alpha</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Mathematics</title>
-    <link>https://quartz.jzhao.xyz/Garden/Foundations/Mathematics/</link>
-    <guid>https://quartz.jzhao.xyz/Garden/Foundations/Mathematics/</guid>
-    <description><![CDATA[ Related to: Mathematics. ]]></description>
-    <pubDate>Wed, 18 Mar 2026 06:24:10 GMT</pubDate>
+    <title>Pixell Management System v2.0</title>
+    <link>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v2.0</link>
+    <guid>https://quartz.jzhao.xyz/Project/ComputerVision/Pixell-Management-System-v2.0</guid>
+    <description><![CDATA[ Related to: ComputerVision 소속: 4by4 Inc. ]]></description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
