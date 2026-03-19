@@ -48,22 +48,22 @@
     <description><![CDATA[ Related to: Personal 원격 서버로 훈련할 때의 문제 ssh를 사용해 원격 서버로 훈련을 진행한다면, 세션을 계속 유지하는 것이 부담스러울 수 있다. 이 문제를 tmux를 사용해 해결할 수 있다. ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
+    <title>Text Region 검출기</title>
+    <link>https://quartz.jzhao.xyz/Personal/Toy/Text-Region-%EA%B2%80%EC%B6%9C%EA%B8%B0</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Toy/Text-Region-%EA%B2%80%EC%B6%9C%EA%B8%B0</guid>
+    <description><![CDATA[ Related to: Toy GitHub - 404Vector/App.Streamlit-FastAPI.Text.Detector: OCR Task 중 하나인 Text Detection을 수행하는 Web Service 저장소 입니다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
+  </item><item>
+    <title>Video2Video</title>
+    <link>https://quartz.jzhao.xyz/Personal/Toy/Video2Video</link>
+    <guid>https://quartz.jzhao.xyz/Personal/Toy/Video2Video</guid>
+    <description><![CDATA[ Related to: Toy github.com/404Vector/Video2Video 개요 Video2Video는 FFMPeg와 FFMPeg-Python을 사용하여 비디오를 비디오로 변환하는 라이브러리입니다. ]]></description>
+    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
+  </item><item>
     <title>Window 10 OpenSSH 서버 활성화 및 실행하기</title>
     <link>https://quartz.jzhao.xyz/Personal/Window-10-OpenSSH-%EC%84%9C%EB%B2%84-%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Personal/Window-10-OpenSSH-%EC%84%9C%EB%B2%84-%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0</guid>
     <description><![CDATA[ Related to: Personal Window 10 OpenSSH 서버 활성화 및 실행하기 OpenSSH Server 활성화 Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0 출력 Path : Online : True RestartNeeded : False OpenSSH Server 실행 Start-Service sshd 부팅 시점에 자동으로 서비스가 실행되도록 설정 Set-Service -Name sshd -StartupType &#039;Automatic&#039;... ]]></description>
-    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
-  </item><item>
-    <title>pipenv 설치 및 사용</title>
-    <link>https://quartz.jzhao.xyz/Personal/pipenv-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9</link>
-    <guid>https://quartz.jzhao.xyz/Personal/pipenv-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9</guid>
-    <description><![CDATA[ Related to: Personal 개요 Pipenv는 Python의 패키지 관리자이며 단일 디렉토리 내의 가상 환경을 구축하고 관리하는 데 도움이 됩니다. Pipenv의 사용법을 다음과 같이 설명합니다. ]]></description>
-    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
-  </item><item>
-    <title>pyenv 설치 및 사용 방법</title>
-    <link>https://quartz.jzhao.xyz/Personal/pyenv-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95</link>
-    <guid>https://quartz.jzhao.xyz/Personal/pyenv-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95</guid>
-    <description><![CDATA[ Related to: Personal 개요 개발자들이 실행하는 스크립트 등의 환경을 정교하게 관리할 수 있는 Python 개발 환경 매니저 “Pyenv”를 소개합니다. ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item>
     </channel>
