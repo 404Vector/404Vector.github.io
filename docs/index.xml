@@ -9,61 +9,61 @@
     <title>Photometric Stereo Optic System</title>
     <link>https://quartz.jzhao.xyz/Project/Photometric-Stereo-Optic-System</link>
     <guid>https://quartz.jzhao.xyz/Project/Photometric-Stereo-Optic-System</guid>
-    <description><![CDATA[ **photometric-stereo’ computer-vision surface-normal-estimation defect-detection camera-calibration cpp c-sharp real-time-processing 3d-reconstruction manufacturing-inspection performance-optimization multi-camera-system algorithm-development python opencv** title: Photometric Stereo 형상 추출 알고리즘 Rela... ]]></description>
-    <pubDate>Sat, 21 Mar 2026 15:25:03 GMT</pubDate>
+    <description><![CDATA[ 광원 조절 및 자체 알고리즘으로 3D 형상 추출 속도와 안정성을 확보. ]]></description>
+    <pubDate>Sat, 21 Mar 2026 15:55:25 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/Garden/</link>
     <guid>https://quartz.jzhao.xyz/Garden/</guid>
-    <description><![CDATA[ Placeholder note for testing purposes. ]]></description>
-    <pubDate>Sat, 21 Mar 2026 15:25:03 GMT</pubDate>
+    <description><![CDATA[ 문서의 주요 내용을 요약하여 정확하고 간결한 설명을 제공합니다. ]]></description>
+    <pubDate>Sat, 21 Mar 2026 15:55:25 GMT</pubDate>
   </item><item>
     <title>2023년 회고-ML Engineer로서의 첫걸음</title>
     <link>https://quartz.jzhao.xyz/Personal/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-ML-Engineer%EB%A1%9C%EC%84%9C%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C</link>
     <guid>https://quartz.jzhao.xyz/Personal/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-ML-Engineer%EB%A1%9C%EC%84%9C%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C</guid>
-    <description><![CDATA[ Related to: Personal 2023년도에 있었던 일, 이뤄낸 일들을 정리해 보았습니다. ]]></description>
+    <description><![CDATA[ 2023년 ML 엔지니어로서 딥러닝 모델 가속화, Docker, AWS 기반 서비스 구축 경험을 기록 ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
     <title>Boostcamp AI Tech 4기 후기</title>
     <link>https://quartz.jzhao.xyz/Personal/Boostcamp-AI-Tech-4%EA%B8%B0-%ED%9B%84%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Personal/Boostcamp-AI-Tech-4%EA%B8%B0-%ED%9B%84%EA%B8%B0</guid>
-    <description><![CDATA[ Related to: Personal Boostcamp AI Tech는 무엇인가요? 어떤걸 배우나요? 팀은 어떻게 나눠지나요? 각 대회는 어떻게 진행되나요? 최종 프로젝트는 무엇인가요? 또 무엇이 있나요? 이 교육의 장단점은 무엇인가요? Boostcamp AI Tech에서 무엇을 얻었나요? 글을 마치며… 본 글을 AI Tech 4기 교육 내용을 기준으로 작성되었으며, 다른 기수와 다를 수 있습니다. ]]></description>
+    <description><![CDATA[ 부스트캠프 AI Tech 4기 교육 경험 및 AI 엔지니어로서의 성장 과정을 담은 회고 ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
     <title>Github 잔디 Notion에 Embed하기</title>
     <link>https://quartz.jzhao.xyz/Personal/Github-%EC%9E%94%EB%94%94-Notion%EC%97%90-Embed%ED%95%98%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Personal/Github-%EC%9E%94%EB%94%94-Notion%EC%97%90-Embed%ED%95%98%EA%B8%B0</guid>
-    <description><![CDATA[ Related to: Personal 개요 이 글은 내 github 잔디를 Notion Page에 embed하는 방법을 소개합니다. HTML 링크 생성 아래 링크에 자신의 github username을 넣습니다. ]]></description>
+    <description><![CDATA[ Notion 페이지에 GitHub 잔디밭 차트를 embed하는 방법을 안내합니다. ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
     <title>Linux Command Collection</title>
     <link>https://quartz.jzhao.xyz/Personal/Linux-Command-Collection</link>
     <guid>https://quartz.jzhao.xyz/Personal/Linux-Command-Collection</guid>
-    <description><![CDATA[ Related to: Personal 이 문서는 각 명령어를 예제와 함께 간단한 설명과 함께 자주 사용되는 리눅스 명령어의 종합 목록을 제공합니다. ]]></description>
+    <description><![CDATA[ 자주 사용되는 리눅스 명령어와 사용 예시를 정리한 종합 가이드입니다. ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
     <title>Open Source Contiribution</title>
     <link>https://quartz.jzhao.xyz/Personal/Open-Source-Contiribution</link>
     <guid>https://quartz.jzhao.xyz/Personal/Open-Source-Contiribution</guid>
-    <description><![CDATA[ Related to: Personal MMDetection 3D - fix local_visualizer.py: only visualize when there is at least one instance github.com/open-mmlab/mmdetection3d/pull/2231. ]]></description>
+    <description><![CDATA[ MMDetection 3D에서 인스턴스가 있을 때만 시각화하도록 local_visualizer.py 수정 ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
     <title>Rust Study</title>
     <link>https://quartz.jzhao.xyz/Personal/Rust-Study</link>
     <guid>https://quartz.jzhao.xyz/Personal/Rust-Study</guid>
-    <description><![CDATA[ Related to: Personal 스터디 멤버 김태훈 김형석 유재상 참조 tourofrust.com/TOC_ko.html 1장 - 기초 Rust 놀이터 별도의 환경을 구성하지 않더라도, “Rust 놀이터”라고 하는 Web Service를 통해 기본적인 코드를 실행해볼 수 있다. ]]></description>
+    <description><![CDATA[ Rust의 스마트 포인터: Box, Rc, RefCell, Deref, Drop 활용법 ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
     <title>Tmux 설치 및 사용법</title>
     <link>https://quartz.jzhao.xyz/Personal/Tmux-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95</link>
     <guid>https://quartz.jzhao.xyz/Personal/Tmux-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95</guid>
-    <description><![CDATA[ Related to: Personal 원격 서버로 훈련할 때의 문제 ssh를 사용해 원격 서버로 훈련을 진행한다면, 세션을 계속 유지하는 것이 부담스러울 수 있다. 이 문제를 tmux를 사용해 해결할 수 있다. ]]></description>
+    <description><![CDATA[ tmux는 ssh 연결이 끊겨도 세션을 유지하여 원격 서버 훈련의 부담을 줄여준다. ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item><item>
     <title>Text Region 검출기</title>
     <link>https://quartz.jzhao.xyz/Personal/Toy/Text-Region-%EA%B2%80%EC%B6%9C%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Personal/Toy/Text-Region-%EA%B2%80%EC%B6%9C%EA%B8%B0</guid>
-    <description><![CDATA[ Related to: Toy GitHub - 404Vector/App.Streamlit-FastAPI.Text.Detector: OCR Task 중 하나인 Text Detection을 수행하는 Web Service 저장소 입니다. ]]></description>
+    <description><![CDATA[ Streamlit과 FastAPI로 구현한 이미지 텍스트 검출 웹 서비스 개발 과정과 결과. ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item>
     </channel>
