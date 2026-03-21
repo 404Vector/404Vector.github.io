@@ -6,6 +6,18 @@
       <description>Last 10 notes on HSV</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Photometric Stereo Optic System</title>
+    <link>https://quartz.jzhao.xyz/Project/Photometric-Stereo-Optic-System</link>
+    <guid>https://quartz.jzhao.xyz/Project/Photometric-Stereo-Optic-System</guid>
+    <description><![CDATA[ **photometric-stereo’ computer-vision surface-normal-estimation defect-detection camera-calibration cpp c-sharp real-time-processing 3d-reconstruction manufacturing-inspection performance-optimization multi-camera-system algorithm-development python opencv** title: Photometric Stereo 형상 추출 알고리즘 Rela... ]]></description>
+    <pubDate>Sat, 21 Mar 2026 15:25:03 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/Garden/</link>
+    <guid>https://quartz.jzhao.xyz/Garden/</guid>
+    <description><![CDATA[ Placeholder note for testing purposes. ]]></description>
+    <pubDate>Sat, 21 Mar 2026 15:25:03 GMT</pubDate>
+  </item><item>
     <title>2023년 회고-ML Engineer로서의 첫걸음</title>
     <link>https://quartz.jzhao.xyz/Personal/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-ML-Engineer%EB%A1%9C%EC%84%9C%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C</link>
     <guid>https://quartz.jzhao.xyz/Personal/2023%EB%85%84-%ED%9A%8C%EA%B3%A0-ML-Engineer%EB%A1%9C%EC%84%9C%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C</guid>
@@ -52,18 +64,6 @@
     <link>https://quartz.jzhao.xyz/Personal/Toy/Text-Region-%EA%B2%80%EC%B6%9C%EA%B8%B0</link>
     <guid>https://quartz.jzhao.xyz/Personal/Toy/Text-Region-%EA%B2%80%EC%B6%9C%EA%B8%B0</guid>
     <description><![CDATA[ Related to: Toy GitHub - 404Vector/App.Streamlit-FastAPI.Text.Detector: OCR Task 중 하나인 Text Detection을 수행하는 Web Service 저장소 입니다. ]]></description>
-    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
-  </item><item>
-    <title>Video2Video</title>
-    <link>https://quartz.jzhao.xyz/Personal/Toy/Video2Video</link>
-    <guid>https://quartz.jzhao.xyz/Personal/Toy/Video2Video</guid>
-    <description><![CDATA[ Related to: Toy github.com/404Vector/Video2Video 개요 Video2Video는 FFMPeg와 FFMPeg-Python을 사용하여 비디오를 비디오로 변환하는 라이브러리입니다. ]]></description>
-    <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
-  </item><item>
-    <title>Window 10 OpenSSH 서버 활성화 및 실행하기</title>
-    <link>https://quartz.jzhao.xyz/Personal/Window-10-OpenSSH-%EC%84%9C%EB%B2%84-%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0</link>
-    <guid>https://quartz.jzhao.xyz/Personal/Window-10-OpenSSH-%EC%84%9C%EB%B2%84-%ED%99%9C%EC%84%B1%ED%99%94-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0</guid>
-    <description><![CDATA[ Related to: Personal Window 10 OpenSSH 서버 활성화 및 실행하기 OpenSSH Server 활성화 Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0 출력 Path : Online : True RestartNeeded : False OpenSSH Server 실행 Start-Service sshd 부팅 시점에 자동으로 서비스가 실행되도록 설정 Set-Service -Name sshd -StartupType &#039;Automatic&#039;... ]]></description>
     <pubDate>Mon, 23 Jun 2025 20:47:33 GMT</pubDate>
   </item>
     </channel>
